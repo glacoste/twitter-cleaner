@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Keys file
+keys.py
+
+# History files
+*_twitter_hostory.txt
+*_twitter_images/
